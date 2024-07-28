@@ -1,0 +1,8 @@
+// -*- mode: C++; -*-
+
+#if !defined(Rcpp_hpp)
+#include <Rcpp/Lightest>
+#endif
+
+#include <magic_enum/magic_enum.hpp>
+#include <magic_enum/magic_enum_iostream.hpp>
