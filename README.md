@@ -1,5 +1,5 @@
 
-## RcppMagicEnum: Rcpp Bindings to the Magic Enun C++ Header Library
+## RcppMagicEnum: Rcpp Bindings to the Magic Enum
 
 ### Motivation
 
