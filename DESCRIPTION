@@ -1,18 +1,18 @@
 Package: RcppMagicEnum
 Type: Package
-Title: 'Rcpp' Bindings to 'magic_enum' C++ Enum Support
+Title: 'Rcpp' Bindings to 'Magic Enum' C++ 'Enum' Support
 Version: 0.0.1
-Date: 2024-07-28
+Date: 2024-07-29
 Authors@R: c(person("Dirk", "Eddelbuettel", role = c("aut", "cre"), email = "edd@debian.org",
                     comment = c(ORCID = "0000-0001-6419-907X")),
-             person("Daniil", "Goncharov", role = "aut", email = "jneargye@gmail.com",
+             person("Daniil", "Goncharov", role = "aut", email = "neargye@gmail.com",
                     comment = "Autor of 'magic_enum'"))
-Description: The header-only 'C++' template library 'magic_enum' for static reflection
- of 'enums' (to string, from string, iteration) for modern C++ is provided by this
- package. More information about the library can be found at it repository at
+Description: The header-only modern 'C++' template library 'Magic Enum' for static reflection
+ of 'enums' (to string, from string, iteration) is provided by this package. More
+ information about the underlying library can be found at its repository at
  <https://github.com/Neargye/magic_enum>.
 URL: https://github.com/eddelbuettel/rcppmagicenum
-BugReports: https://github.com/eddelbuettel/rcppmagicebyn/issues
+BugReports: https://github.com/eddelbuettel/rcppmagicenum/issues
 License: MIT + file LICENSE
 Imports: Rcpp (>= 1.0.10)
 LinkingTo: Rcpp
