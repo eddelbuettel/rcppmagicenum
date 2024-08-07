@@ -5,6 +5,8 @@
 #'
 #' This example, directly almost verbatim from the upstream \code{README.md}
 #' shows several simple usage patterns for enumerations enabled by the package.
+#' @return The function returns nothing and is invoked for its side-effect of
+#' displaying output to the console.
 #' @examples
 #' magic_enum_example()
 magic_enum_example <- function() {
