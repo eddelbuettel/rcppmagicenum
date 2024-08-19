@@ -1,8 +1,8 @@
 Package: RcppMagicEnum
 Type: Package
-Title: 'Rcpp' Bindings to 'Magic Enum' C++ 'Enum' Support
+Title: 'Rcpp' Bindings to 'Magic Enum' 'C++' 'Enum' Support
 Version: 0.0.1
-Date: 2024-07-29
+Date: 2024-07-31
 Authors@R: c(person("Dirk", "Eddelbuettel", role = c("aut", "cre"), email = "edd@debian.org",
                     comment = c(ORCID = "0000-0001-6419-907X")),
              person("Daniil", "Goncharov", role = "aut", email = "neargye@gmail.com",

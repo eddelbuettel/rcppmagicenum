@@ -1,5 +1,5 @@
 
-## RcppMagicEnum: Rcpp Bindings to the Magic Enum
+## RcppMagicEnum: Rcpp Bindings to Magic Enum Library
 
 ### Motivation
 
