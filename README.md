@@ -1,6 +1,12 @@
 
 ## RcppMagicEnum: Rcpp Bindings to Magic Enum Library
 
+[![CI](https://github.com/eddelbuettel/rcppmagicenum/workflows/ci/badge.svg)](https://github.com/eddelbuettel/rcppmagicenum/actions?query=workflow%3Aci)
+[![License](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+[![CRAN](https://www.r-pkg.org/badges/version/RcppMagicEnum)](https://cran.r-project.org/package=RcppMagicEnum)
+[![Dependencies](https://tinyverse.netlify.app/badge/RcppMagicEnum)](https://cran.r-project.org/package=RcppMagicEnum)
+[![Last Commit](https://img.shields.io/github/last-commit/eddelbuettel/rcppmagicenum)](https://github.com/eddelbuettel/rcppmagicenum)
+
 ### Motivation
 
 Even Modern C++ does not have proper reflection (yet). The [Magic Enum][magic enum] library by
