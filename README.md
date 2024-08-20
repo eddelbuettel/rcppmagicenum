@@ -59,6 +59,10 @@ Integer value of enum: -10
 
 The package is complete and contains a mature version of Magic Enum.
 
+### Installation
+
+The package is available via [CRAN](https://cran.r-project.org) and can be installed the usual way via `install.packages("RcppMagicEnum")`.
+
 ### Contributing
 
 Any problems, bug reports, or features requests for the package can be submitted and handled most
